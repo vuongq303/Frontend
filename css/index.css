@@ -1,9 +1,0 @@
-	.bg {
-	    opacity: 0;
-	    transition: opacity 1s;
-	    -webkit-transition: opacity 1s;
-	}
-
-	.bg-loaded {
-	    opacity: 1;
-	}
