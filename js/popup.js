@@ -14,7 +14,7 @@ function _0x2d06() {
     "forEach",
     "1576138uVDEgk",
     "2174480nQxRNo",
-    "https://public.caotanghanoi.com",
+    "http://192.168.22.2:3000",
     "#register_v",
     "3npeMkE",
     "stringify",
@@ -53,10 +53,10 @@ const _0x23e930 = _0x494b;
       const _0x487447 =
         -parseInt(_0x4a5b17(0x1f7)) / 0x1 +
         (parseInt(_0x4a5b17(0x1e8)) / 0x2) *
-          (-parseInt(_0x4a5b17(0x1ec)) / 0x3) +
+        (-parseInt(_0x4a5b17(0x1ec)) / 0x3) +
         -parseInt(_0x4a5b17(0x201)) / 0x4 +
         (-parseInt(_0x4a5b17(0x1fb)) / 0x5) *
-          (-parseInt(_0x4a5b17(0x1f2)) / 0x6) +
+        (-parseInt(_0x4a5b17(0x1f2)) / 0x6) +
         parseInt(_0x4a5b17(0x1f3)) / 0x7 +
         parseInt(_0x4a5b17(0x1e9)) / 0x8 +
         parseInt(_0x4a5b17(0x1f0)) / 0x9;
@@ -110,7 +110,7 @@ const _0x23e930 = _0x494b;
               const _0x41ae23 = _0x57c8de;
               _0x5455e6[_0x41ae23(0x1ee)]()["text"](
                 _0x309335[_0x41ae23(0x1ff)]?.[_0x41ae23(0x1fc)] ||
-                  _0x41ae23(0x1f4)
+                _0x41ae23(0x1f4)
               );
             },
             complete: function () {
